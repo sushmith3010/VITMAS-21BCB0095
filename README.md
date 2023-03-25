@@ -2,7 +2,7 @@
 
 GITHUB commands listed with its use and syntax
 1) git init: intialize a new git repository.
-suntax: git init[repository name]
+syntax: git init[repository name]
 
 2) git add: adds changes to the staging area
 syntax: git add[file]
